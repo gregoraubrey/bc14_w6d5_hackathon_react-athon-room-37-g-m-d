@@ -1,3 +1,7 @@
+**This was the sixth hackathon we did at School of Code on 20230421. See the instructions we were given below.**
+
+
+
 # React-athon
 
 ## Task 1 - API Research (20 - 30 mins)
