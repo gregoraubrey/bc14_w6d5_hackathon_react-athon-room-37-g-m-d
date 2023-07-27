@@ -1,0 +1,279 @@
+{
+    "summarizerDoc": {
+        "id": 0,
+        "size": 1208,
+        "title": "intellexer.html",
+        "url": "https://apilist.fun/api/intellexer",
+        "error": null,
+        "sizeFormat": null
+    },
+    "structure": "General",
+    "topics": [
+        "Economics.economics",
+        "Tech.information_technology"
+    ],
+    "items": [
+        {
+            "text": "Request format: Binary,URI Query String/CRUD",
+            "rank": 6,
+            "weight": 0.41082259959485112
+        },
+        {
+            "text": "If it donesn't then click on \"Or Add <b>new Company</b>\" to add a your <b>project's info</b>.",
+            "rank": 8,
+            "weight": 0.62296152396201987
+        },
+        {
+            "text": "the API and to invite you to contribute on our blog and add your",
+            "rank": 7,
+            "weight": 0.59124873870144812
+        },
+        {
+            "text": "<b>company</b> or project to the <b>companies pages</b>.",
+            "rank": 9,
+            "weight": 1
+        }
+    ],
+    "totalItemsCount": 43,
+    "conceptTree": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            16,
+                            17
+                        ],
+                        "st": 0,
+                        "text": "new company",
+                        "w": 1
+                    }
+                ],
+                "mp": false,
+                "sentenceIds": [
+                    9,
+                    11,
+                    13,
+                    14,
+                    21,
+                    25,
+                    30,
+                    37,
+                    16,
+                    17
+                ],
+                "st": 0,
+                "text": "company",
+                "w": 1
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            15
+                        ],
+                        "st": 0,
+                        "text": "company info",
+                        "w": 0.53498654060132822
+                    },
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            16
+                        ],
+                        "st": 0,
+                        "text": "project info",
+                        "w": 0.37217056988701719
+                    }
+                ],
+                "mp": false,
+                "sentenceIds": [
+                    15,
+                    16
+                ],
+                "st": 0,
+                "text": "info",
+                "w": 0.53498654060132822
+            },
+            {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                    21
+                ],
+                "st": 0,
+                "text": "project",
+                "w": 0.4930946672009402
+            },
+            {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                    37
+                ],
+                "st": 0,
+                "text": "company page",
+                "w": 0.46337191000749922
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            25
+                        ],
+                        "st": 0,
+                        "text": "api logo",
+                        "w": 0.39175727941367028
+                    },
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            22
+                        ],
+                        "st": 0,
+                        "text": "auto generated logo",
+                        "w": 0.25475566151168566
+                    }
+                ],
+                "mp": false,
+                "sentenceIds": [
+                    24,
+                    22,
+                    25
+                ],
+                "st": 0,
+                "text": "logo",
+                "w": 0.43364915281405825
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            19
+                        ],
+                        "st": 0,
+                        "text": "project name",
+                        "w": 0.37217056988701719
+                    }
+                ],
+                "mp": false,
+                "sentenceIds": [
+                    18,
+                    19
+                ],
+                "st": 0,
+                "text": "name",
+                "w": 0.37217056988701719
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [],
+                        "st": 0,
+                        "text": "clearbit api",
+                        "w": 0.3498654060132822
+                    },
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [],
+                        "st": 0,
+                        "text": "intellexer api",
+                        "w": 0.3498654060132822
+                    },
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [],
+                        "st": 0,
+                        "text": "official api",
+                        "w": 0.25758716093689082
+                    },
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            40
+                        ],
+                        "st": 0,
+                        "text": "similar api",
+                        "w": 0.25758716093689082
+                    }
+                ],
+                "mp": false,
+                "sentenceIds": [
+                    40,
+                    0
+                ],
+                "st": 0,
+                "text": "api",
+                "w": 0.3498654060132822
+            }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "",
+        "w": 0
+    },
+    "namedEntityTree": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            31,
+                            32
+                        ],
+                        "st": 0,
+                        "text": "Twitter",
+                        "w": 1
+                    }
+                ],
+                "mp": false,
+                "sentenceIds": [],
+                "st": 0,
+                "text": "NE-org",
+                "w": 1
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "mp": false,
+                        "sentenceIds": [
+                            41
+                        ],
+                        "st": 0,
+                        "text": "2019",
+                        "w": 0.5
+                    }
+                ],
+                "mp": false,
+                "sentenceIds": [],
+                "st": 0,
+                "text": "NE-date",
+                "w": 0.5
+            }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "Root",
+        "w": 1
+    }
+}
